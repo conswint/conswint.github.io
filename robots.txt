@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conswint.github.io/sitemap.html.gz
+Sitemap: https://conswint.github.io/app/sitemap.html.gz
+Sitemap: https://conswint.github.io/assets/sitemap.html.gz
+Sitemap: https://conswint.github.io/css/sitemap.html.gz
+Sitemap: https://conswint.github.io/includes/sitemap.html.gz
+Sitemap: https://conswint.github.io/item/sitemap.html.gz
+Sitemap: https://conswint.github.io/src/sitemap.html.gz
